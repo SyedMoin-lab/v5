@@ -14,9 +14,11 @@ I created this website to showcase my work. I’m always striving to create some
 
 ![App Screenshot](https://user-images.githubusercontent.com/84178696/228679118-47e63775-0635-42b2-8838-a80644ef612b.png)
 
-![App Screenshot](https://user-images.githubusercontent.com/84178696/228673498-ad33b834-58b3-43e5-b184-b136d01c6e1a.png)
+![Screenshot (100)](https://github.com/user-attachments/assets/5fbb72f4-fb6a-41cb-961d-f7f407bcef11)
 
-![App Screenshot](https://user-images.githubusercontent.com/84178696/228675919-70180c2c-c888-423d-ae85-409ce4645b8b.png)
+
+![Screenshot (101)](https://github.com/user-attachments/assets/12c80b46-49a5-4d8f-a6e2-096d199587c9)
+
 
 [View Live Demo](https://folio-v1-victorcodess.vercel.app/)
 
